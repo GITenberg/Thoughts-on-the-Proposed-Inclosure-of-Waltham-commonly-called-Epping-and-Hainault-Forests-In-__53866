@@ -1,0 +1,25 @@
+_repo: Thoughts-on-the-Proposed-Inclosure-of-Waltham-commonly-called-Epping-and-Hainault-Forests-In-__53866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Street, Thomas
+    gutenberg_agent_id: '48272'
+    url: http://www.gutenberg.org/2009/agents/48272
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Hainault (London, England)'
+- !lcsh 'Epping Forest (England : Forest)'
+- GITenberg
+title: "Thoughts on the Proposed Inclosure of Waltham (commonly called Epping) and\
+  \ Hainault Forests\r\nIn which a new plan is suggested for disafforesting the same:\
+  \ with the heads of the bill now proposed for that purpose"
+url: http://www.gutenberg.org/ebooks/53866
